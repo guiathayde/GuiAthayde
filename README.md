@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="auto" src=blob:https://web.telegram.org/7765308d-3a64-4b90-8374-1ce823d2e206">
+<img width="auto" src=https://web.telegram.org/7765308d-3a64-4b90-8374-1ce823d2e206">
 
 
 # Guilherme César Athayde
